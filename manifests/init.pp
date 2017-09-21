@@ -11,5 +11,5 @@
 # Sample Usage:
 #
 class testtingenvppt2 {
-
+notify{"first mod from git":}
 }
